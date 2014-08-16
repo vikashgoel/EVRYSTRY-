@@ -1,0 +1,16 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{background-image:url(image/fotolia_36794.father%20and%20son.jpg)}
+
+.main{width:500px; height:250px; background-color:#CCC;margin: auto;
+margin-top: 12%;opacity: 0.5;
+}
+
+.maain-incide{height: 150px;
+width: 300px;
+margin: auto;
+padding-top: 40px;
+}
+
+.main-incide p{text-align:justify}

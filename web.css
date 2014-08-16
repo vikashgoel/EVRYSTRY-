@@ -1,0 +1,194 @@
+@charset "utf-8";
+/* CSS Document */
+.clearfix:after {
+    content: ".";
+    display: block;
+    clear: both;
+    visibility: hidden;
+    line-height: 0;
+    height: 0;
+}
+
+#first-photo{ background-image:url(image/50f9065cbc825c7d76682c571324f252.jpg);margin-top: 84px;
+}
+
+.after-header{width:100%;}
+
+#logo-div{float:left}
+
+#logo{margin:20px}
+
+.contnner{width: 50%;
+margin: auto;}
+
+.contnner-padding{padding-top:28px;}
+
+
+.div1{background-color:#5ADEF5; width:40px; float:left;border-bottom-left-radius: 10px;
+border-top-left-radius: 10px;}
+
+.div2{background-color: rgba(80, 72, 72, 0.6);
+width: 87%; padding-top: 28px;border-top-right-radius: 10px;
+border-bottom-right-radius: 10px; float:left
+
+}
+
+#twitter-logo{height: 22px;
+padding-left: 8px;padding-top: 8%;
+padding-bottom: 8%;
+}
+
+.button-div{float: right;
+width: 15%;}
+
+#facebook{background-color:#3b5998; color:#FFF; border:1px solid #23355b; padding:3px 6px 3px 6px}
+
+#twitter{background-color:#5ADEF5; color:#FFF; border:1px solid #58FAF4;padding: 3px 11px 3px 11px; margin-left:-6px;
+}
+
+
+.hijito{text-align: center;
+font-size: 72px;
+margin-bottom:0px;
+}
+
+.internet{text-align: center;
+margin-top: 0px;
+font-size: 48px;
+margin-bottom:0px}
+
+
+.p3{background-color: #642123;
+color: #FFF;
+text-align: center;
+width: 76%;
+margin: auto;
+padding: 4px;
+border-radius: 14px;
+font-size: 23px;
+margin-top:5px
+}
+
+																							/*---------2nd part------------*/																								
+
+.header{background-color:#000; width:100%; color:#FFF;height: 85px;position: fixed;
+top: 0;
+}
+
+.part2-div1{float:left;}
+
+#part2-table{float:right;margin-right: 180px;font-size: 18px;
+
+}
+
+#part2-img{margin-left: 165px; margin-top:20px}
+
+#part2-tr{line-height: 81px;}
+
+#part2-tr td{padding-left:25px; border-left:1px dotted #535252; padding-right:25px}
+
+
+#part2-tr td:hover{ background-color:#BB1F2D;}
+
+#shopha-div{float:left}
+
+#sopha{margin-left:100px;margin-top: 30px;
+}
+
+#line{float:left; width:28%; margin-left:55px}
+
+#line-img{margin-top: 30px;margin-bottom: -10px;
+}
+
+#LA-AGENCIA{font-size:48px}
+
+#Nuestro{font-size:24px;border-bottom: 1px dotted black;
+padding-bottom: 10px;
+}
+
+#para-div{text-align:justify; padding-top:10px;border-bottom: 7px solid red;
+padding-bottom: 20px;}
+
+#line2{padding-top:30px;}
+ 	
+#ORGULLO{ font-size:30px;}
+
+#equipo{font-size:20px;border-bottom: 1px dotted black;
+padding-bottom: 10px;}
+
+#para2-div{text-align: justify;
+margin-top: 10px;
+border-bottom: 7px solid red;
+padding-bottom: 15px;
+}
+
+
+#slide{
+	background-color:red; border-radius:150px; width:300px; height:300px; display:none;}
+
+
+
+#member-div{width:1000px; margin:auto;margin-top: 5%;
+}
+
+.image1{float: left;
+width: 234px;}
+
+.image1:hover{
+	background-color:red; border-radius:150px; width:300px; height:300px; z-index:1000;
+}
+
+.image5-div{margin-left:112px}
+
+
+
+
+																									/*---------2nd part------------*/
+																									
+																									
+
+#part3{background-image:url(image/Fondo_seccion_awards_v2.jpg);}
+
+
+#part3-contner{width:850px; height:1000px; margin:auto;}
+
+#sprrow-div{width:410px; padding-top: 20px; float:left;}
+
+#part3-para1{width: 353px;
+float: right;
+text-align: justify;
+margin-top: 10%; margin-right:30px}
+
+#AWARDS{font-size:50px;margin-bottom: -5px;}
+
+#mostrar{font-size: 20px;border-bottom: 1px dotted black;
+padding-bottom: 10px;}
+
+#part3-text1{margin-top:10px;border-bottom: 7px solid #C54C4C;
+padding-bottom: 10px;
+}
+
+#PREMIOS{clear: both;
+width: 370px;}
+
+#PREMIOS-inside{font-size:48px}
+
+#PREMIOS-inside2{font-size:25px;border-bottom: 1px dotted black;
+padding-bottom: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
